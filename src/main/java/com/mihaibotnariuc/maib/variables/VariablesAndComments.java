@@ -2,7 +2,7 @@ package com.mihaibotnariuc.maib.variables;
 
 public class VariablesAndComments {
     public static void main(String[] args) {
-        // Declare the variables
+        // Declare boolean variables (true/false)
         boolean isUsed;
         boolean hasBattery;
         boolean isAndroid;
@@ -10,8 +10,9 @@ public class VariablesAndComments {
         boolean isBlocked;
         boolean isCharged;
 
+//    Declare the characters
         char condition;
-
+//Declare the number details
         byte numberOfSimCards;
         byte randomAccessMemory;
         short productionYear;
@@ -28,7 +29,7 @@ public class VariablesAndComments {
         isCharged = true;
 
         condition = 'A';
-        numberOfOwners =2;
+        numberOfOwners = 2;
         randomAccessMemory = 4;
         productionYear = 2023;
         numberOfOwners = 0;
