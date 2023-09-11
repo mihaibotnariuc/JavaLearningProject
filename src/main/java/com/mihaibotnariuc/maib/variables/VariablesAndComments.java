@@ -9,6 +9,7 @@ public class VariablesAndComments {
         boolean isStolen;
         boolean isBlocked;
         boolean isCharged;
+        boolean isWhite;
 
 //    Declare the characters
         char condition;
