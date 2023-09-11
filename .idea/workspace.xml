@@ -4,18 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abadb2f4-9772-4cb6-bd86-f04e4f3832b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/Main.java" afterDir="false" />
+    <list default="true" id="abadb2f4-9772-4cb6-bd86-f04e4f3832b9" name="Changes" comment="Added the Project Structure">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/variables/VariablesAndComments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,10 +31,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VariablesAndComments">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mihaibotnariuc.maib.Main" />
       <module name="JavaLearningProject" />
@@ -46,8 +49,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VariablesAndComments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mihaibotnariuc.maib.variables.VariablesAndComments" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mihaibotnariuc.maib.variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VariablesAndComments" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -61,6 +78,27 @@
       <option name="presentableId" value="Default" />
       <updated>1694450329374</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the Project Structure">
+      <option name="closed" value="true" />
+      <created>1694450811392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694450811392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added the Project Structure">
+      <option name="closed" value="true" />
+      <created>1694451006149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694451006149</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the Project Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the Project Structure" />
   </component>
 </project>
