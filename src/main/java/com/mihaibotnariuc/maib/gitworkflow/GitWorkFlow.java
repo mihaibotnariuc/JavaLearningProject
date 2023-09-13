@@ -14,7 +14,12 @@ public class GitWorkFlow {
         String step10 = "Create a pull requiest from origini/New_Branch_Name into master";
         String step11 = "Add the pull Request details like name, description and reviewers";
         String step12 = "If we collect at least 1 approval then we can merge the changes and continue wit another task";
-        String step13 ="Do not forget tha locally you are still on the New_Branch_Name";
+        String step13 ="Do not forget the locally you are still on the New_Branch_Name";
+        String step14 = "If someone asks for changes then we should open the project and make sure that are on the same New_Branch_Name branch";
+        String step15 = "Change the requested lines of code";
+        String step16 = "Perform a git commit amend to change the latest changes";
+        String step17 = "Perform git push to update the status";
+
         System.out.println(step1);
         System.out.println(step2);
         System.out.println(step3);
@@ -28,6 +33,10 @@ public class GitWorkFlow {
         System.out.println(step11);
         System.out.println(step12);
         System.out.println(step13);
+        System.out.println(step14);
+        System.out.println(step15);
+        System.out.println(step16);
+        System.out.println(step17);
 
     }
 }
