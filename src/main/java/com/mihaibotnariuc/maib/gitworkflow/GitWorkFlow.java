@@ -9,9 +9,9 @@ public class GitWorkFlow {
         String step5 = "Execute git branch New_Branch_Name - as a result we redirected to the new branch";
         String step6 = "Perform the checkout New_Branch_Name changes in the solution";
         String step7 = "Add the task related changes in the solution";
-        String step8 = "Execute git commit command rom the Intellij Idea to store the chnages at a local level - on the current branch";
+        String step8 = "Execute git commit command rom the Intellij Idea to store the chnages Tat a local level - on the current branch";
         String step9 = "Execute git push from Intellij Idea panel - as a result, anew remote branch is created with origin/New_Branch_Name";
-        String step10 = "Create a pull requiest from origini/New_Branch_Name into master";
+        String step10 = "Create a pull req_aUTPuiest from origini/New_Branch_Name into master";
         String step11 = "Add the pull Request details like name, description and reviewers";
         String step12 = "If we collect at least 1 approval then we can merge the changes and continue wit another task";
         String step13 ="Do not forget the locally you are still on the New_Branch_Name";
