@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="abadb2f4-9772-4cb6-bd86-f04e4f3832b9" name="Changes" comment="Added the program related to variables and comments">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/ManageAutoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/autoservicetask/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/autoservicetask/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/gitworkflow/GitWorkFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/gitworkflow/GitWorkFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/ManageAutoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/ManageAutoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/autoservicetask/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/autoservicetask/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
