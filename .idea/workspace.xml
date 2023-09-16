@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abadb2f4-9772-4cb6-bd86-f04e4f3832b9" name="Changes" comment="Added the program related to variables and comments">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/ManageAutoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/ManageAutoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/autoservicetask/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mihaibotnariuc/maib/classesandobjects/autoservicetask/Worker.java" afterDir="false" />
-    </list>
+    <list default="true" id="abadb2f4-9772-4cb6-bd86-f04e4f3832b9" name="Changes" comment="Implemented the AutoServiceTask" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,12 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1694452316362</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implemented the AutoServiceTask">
+      <option name="closed" value="true" />
+      <created>1694858532289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694858532289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the Project Structure" />
     <MESSAGE value="Added the program related to variables and comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the program related to variables and comments" />
+    <MESSAGE value="Implemented the AutoServiceTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented the AutoServiceTask" />
   </component>
 </project>
