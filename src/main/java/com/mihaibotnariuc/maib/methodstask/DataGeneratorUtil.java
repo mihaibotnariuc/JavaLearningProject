@@ -25,10 +25,20 @@ public class DataGeneratorUtil {
         String uniqueUUID = UUID.randomUUID().toString();
         return uniqueUUID + "@" + domainName;
     }
-//    public static String generateValidRandomString (int length){
-//        String acceptedChars ="asjdlaAJSDLAKSDLLKJHJASFNASBDNASB12312412";
-//        StringBuilder stringBuilder = new StringBuilder();
-//        for (int i = 0, i< length; i++){
 
+static String getRandomEmail(int maxlength, String domainName) {
+    String acceptedChars = "ABCDEF123124asdasd";
+    StringBuilder stringBuilder = new StringBuilder();
+    for (int i = 0; i < maxlength; i++) {
+        int randomIndex = DataGeneratorUtil.getRandomInt(acceptedChars.length());
+        stringBuilder.append(acceptedChars.charAt(randomIndex));
+
+        System.out.println("As part of iteration [" + i + "] the letter " +
+                "[" +acceptedChars.charAt(randomIndex) + "] was added");
+    }
+return stringBuilder.toString() + "@" + domainName;
+
+
+}
         }
 
