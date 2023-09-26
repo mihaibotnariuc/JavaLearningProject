@@ -30,7 +30,6 @@ public class ChisinauEvidenceCatalog {
         } else {
             System.out.println("Foc baieti");
         }
-
     }
 }
 
