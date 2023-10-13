@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abadb2f4-9772-4cb6-bd86-f04e4f3832b9" name="Changes" comment="Implemented the AutoServiceTask" />
+    <list default="true" id="abadb2f4-9772-4cb6-bd86-f04e4f3832b9" name="Changes" comment="Implemented the AutoServiceTask">
+      <change afterPath="$PROJECT_DIR$/src/main/java/bookcollectiontask/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bookcollectiontask/IntNumberArrayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bookcollectiontask/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bookcollectiontask/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +32,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2VG6yYUeUGQ4eHrjsNL3SPasoKO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +51,7 @@
       <recent name="com.mihaibotnariuc.maib.classesandobjects" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ManageAutoService">
+  <component name="RunManager" selected="Application.bookcollectiontask.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mihaibotnariuc.maib.Main" />
       <module name="JavaLearningProject" />
@@ -83,8 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bookcollectiontask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bookcollectiontask.Main" />
+      <module name="JavaLearningProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bookcollectiontask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bookcollectiontask.Main" />
         <item itemvalue="Application.ManageAutoService" />
         <item itemvalue="Application.VariablesAndComments" />
         <item itemvalue="Application.Main" />
@@ -148,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694859309738</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added the implementation of file management service that will be used for the ATF">
+      <option name="closed" value="true" />
+      <created>1696791435264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696791435264</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
